@@ -1,6 +1,6 @@
 # MAD Repository
 
-Welcome to the **MAD Repository**! 🚀 This repository contains **Android development** files, including **XML layouts** and **Java source code**.
+Welcome to the **MAD Repository**! 🚀 This repository contains **Android development** mini files, including **XML layouts** and **Java source code**.
 
 ## 📌 Project Overview
 This repository is intended for **Mobile Application Development (MAD)**. It includes:
@@ -41,9 +41,6 @@ git clone https://github.com/your-username/MAD-Repository.git
 
 ## 📜 Contributing
 Feel free to **fork** this repository, create a new **branch**, and submit a **pull request** if you want to contribute!
-
-## 📄 License
-This project is licensed under the **MIT License**.
 
 ---
 🛠 **Happy Coding!** 😊
